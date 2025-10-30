@@ -1,0 +1,33 @@
+.service-item img{
+	width: 100%;
+	overflow: hidden;
+}
+.service-item .text{
+    color: red;
+}
+.service-item{
+	text-align: center;
+}
+
+.neww .service-item .down-content {
+	background-color: #fff;
+	padding: 40px 30px;
+}
+
+.neww .service-item .down-content h4 {
+	font-size: 17px;
+	color: #1a6692;
+	margin-bottom: 20px;
+}
+
+.neww .service-item .down-content p {
+	margin-bottom: 25px;
+}
+.ready{
+	color: #fff;
+	background-color: red;
+	align-items: center;
+	margin: auto;
+	margin-bottom: 50px;
+}
+
